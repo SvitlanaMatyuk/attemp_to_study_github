@@ -1,18 +1,16 @@
 .table {
-  align-self: center;
+  align-content: center;
   background-color: chartreuse;
-  height: 15px;
+  color: brown;
+  font-size: x-large;
 }
-.tr {
-  padding: 5px;
-  text-align: 20px;
-}
-.td {
-  padding: 5px;
-  text-align: 20px;
-}
+
 .about_dream {
-  padding: 50px;
-  height: 20px;
+  padding: 50px 30px 20px 30px;
+  margin: 50px 70px;
+  height: 40px;
   background-color: coral;
+  color: rgb(56, 94, 94);
+  font-style: oblique;
+  font-size: larger;
 }
